@@ -1,14 +1,6 @@
 <scheme name="Github produced" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-08-16T10:47:48</property>
-    <property name="ide">Ruby</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2016-08-16T10:53:52</property>
-    <property name="originalScheme">Github</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e6e6ed" />
@@ -1233,13 +1225,21 @@
     </option>
     <option name="RUBY_COMMENT">
       <value>
-        <option name="FOREGROUND" value="999988" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="7d7d7d" />
+        <option name="BACKGROUND" value="ffdaa8" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="127f83" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_CONSTANT_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="445588" />
+        <option name="FOREGROUND" value="7d34b4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1279,18 +1279,20 @@
     </option>
     <option name="RUBY_INTERPOLATED_STRING">
       <value>
-        <option name="FOREGROUND" value="dd1144" />
-        <option name="BACKGROUND" value="f7e7f1" />
+        <option name="FOREGROUND" value="899b25" />
+        <option name="BACKGROUND" value="f7efd2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_IVAR">
       <value>
-        <option name="FOREGROUND" value="108888" />
+        <option name="FOREGROUND" value="3aa579" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="bd19bf" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1303,7 +1305,7 @@
     <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="RUBY_METHOD_NAME">
       <value>
-        <option name="FOREGROUND" value="990000" />
+        <option name="FOREGROUND" value="2959d8" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1326,7 +1328,8 @@
     </option>
     <option name="RUBY_PARAMETER_ID">
       <value>
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="c75218" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_REGEXP">
@@ -1342,8 +1345,9 @@
     </option>
     <option name="RUBY_STRING">
       <value>
-        <option name="FOREGROUND" value="dd1144" />
-        <option name="BACKGROUND" value="f7e7f1" />
+        <option name="FOREGROUND" value="7a9d18" />
+        <option name="BACKGROUND" value="f7efd2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_SYMBOL">
