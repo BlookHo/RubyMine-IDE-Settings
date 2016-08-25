@@ -2572,6 +2572,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/react_webpack_rails-0.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="redcarpet (v3.3.2@8b4897, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.3.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/redcarpet-8b4897ba9983/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/redcarpet-8b4897ba9983/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/redcarpet-8b4897ba9983/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.3.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/redcarpet-8b4897ba9983/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/redcarpet-8b4897ba9983/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/redcarpet-8b4897ba9983/lib" />
+      </SOURCES>
+    </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/rubygems-bundler-1.4.4/lib" />
