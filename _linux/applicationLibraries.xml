@@ -446,10 +446,12 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -1504,6 +1506,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/guard-rspec-4.7.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="haml (v4.0.7, RVM: ruby-2.3.1 [rails5.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/haml-4.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/haml-4.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/haml-4.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/haml-4.0.7/lib" />
+      </SOURCES>
+    </library>
     <library name="haml (v4.0.7, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/haml-4.0.7/bin" />
@@ -1512,6 +1524,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/haml-4.0.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/haml-4.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="haml-rails (v0.9.0, RVM: ruby-2.3.1 [rails5.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/haml-rails-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/haml-rails-0.9.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/haml-rails-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/haml-rails-0.9.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="html2haml (v2.0.0, RVM: ruby-2.3.1 [rails5.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/html2haml-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/html2haml-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/html2haml-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/html2haml-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="i18n (v0.7.0, RVM: ruby-2.2.3) [gem]">
@@ -3718,6 +3750,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby_dep-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="ruby_parser (v3.8.2, RVM: ruby-2.3.1 [rails5.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/ruby_parser-3.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/ruby_parser-3.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/ruby_parser-3.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/ruby_parser-3.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby_parser (v3.8.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby_parser-3.8.2/bin" />
@@ -3920,6 +3962,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sdoc-0.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sdoc-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sexp_processor (v4.7.0, RVM: ruby-2.3.1 [rails5.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/sexp_processor-4.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/sexp_processor-4.7.0/lib" />
       </SOURCES>
     </library>
     <library name="sexp_processor (v4.7.0, RVM: ruby-2.3.1) [gem]">
