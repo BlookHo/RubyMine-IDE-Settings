@@ -1,11 +1,4 @@
 <scheme name="Github produced Ruby JS" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-08-16T22:17:49</property>
-    <property name="ide">Ruby</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2016-08-16T22:18:05</property>
-    <property name="originalScheme">Github produced</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
@@ -17,7 +10,7 @@
     <option name="LINE_NUMBERS_COLOR" value="f6b22" />
     <option name="SELECTED_INDENT_GUIDE" value="bfbfbf" />
     <option name="SELECTION_BACKGROUND" value="bcd5fa" />
-    <option name="WHITESPACES" value="bfbfbf" />
+    <option name="WHITESPACES" value="aabfac" />
   </colors>
   <attributes>
     <option name="BREAKPOINT_ATTRIBUTES">
