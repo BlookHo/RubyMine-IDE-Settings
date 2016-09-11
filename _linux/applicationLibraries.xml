@@ -4138,6 +4138,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/redcarpet-8b4897ba9983/lib" />
       </SOURCES>
     </library>
+    <library name="redcarpet (v3.3.4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.3.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redcarpet-3.3.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redcarpet-3.3.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redcarpet-3.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.3.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redcarpet-3.3.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redcarpet-3.3.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redcarpet-3.3.4/lib" />
+      </SOURCES>
+    </library>
     <library name="redcarpet (v3.3.4@8db31c, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.3.4" />
@@ -4182,6 +4196,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/remotipart-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/remotipart-1.2.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="remotipart (v1.2.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/remotipart-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/remotipart-1.2.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/remotipart-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/remotipart-1.2.1/vendor" />
       </SOURCES>
     </library>
     <library name="remotipart (v1.2.1@88d9a7, RVM: ruby-2.3.1) [gem]">
