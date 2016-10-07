@@ -10,9 +10,13 @@
           <option name="url" value="https://github.com/BlookHo/experteese.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Mr_Pilot@bitbucket.org/360bound/consult_temed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Polytech Projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/RubymineProjects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
