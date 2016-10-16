@@ -3832,6 +3832,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mailcatcher-0.6.4/public" />
       </SOURCES>
     </library>
+    <library name="memcached (v1.8.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/memcached-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/memcached-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/memcached-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/memcached-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="memoizable (v0.4.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/memoizable-0.4.2/lib" />
