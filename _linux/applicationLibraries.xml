@@ -248,6 +248,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionview-5.0.0.rc2/lib" />
       </SOURCES>
     </library>
+    <library name="active_model_serializers (v0.10.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/active_model_serializers-0.10.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/active_model_serializers-0.10.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/active_model_serializers-0.10.2/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/active_model_serializers-0.10.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/active_model_serializers-0.10.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/active_model_serializers-0.10.2/.github" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activejob-4.2.0/lib" />
@@ -3494,6 +3506,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json_pure-1.8.3/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json_pure-1.8.3/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json_pure-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi (v0.1.1.beta5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jsonapi-0.1.1.beta5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jsonapi-0.1.1.beta5/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-parser (v0.1.1.beta2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jsonapi-parser-0.1.1.beta2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jsonapi-parser-0.1.1.beta2/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-renderer (v0.1.1.beta1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jsonapi-renderer-0.1.1.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jsonapi-renderer-0.1.1.beta1/lib" />
       </SOURCES>
     </library>
     <library name="jwt (v1.5.1, RVM: ruby-2.2.3) [gem]">
