@@ -5426,6 +5426,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-iframe-0.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-mini-profiler (v0.10.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-mini-profiler-0.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-mini-profiler-0.10.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-mini-profiler (v0.9.9.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rack-mini-profiler-0.9.9.2/lib" />
