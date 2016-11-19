@@ -14,6 +14,10 @@
           <option name="url" value="https://Mr_Pilot@bitbucket.org/360bound/consult_temed.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:Mr_Pilot/artesis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/RubymineProjects" />
